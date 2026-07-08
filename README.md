@@ -57,5 +57,8 @@ Python ≥ 3.11 · crewai (with the azure-ai-inference extra) · an LLM endpoint
 Full walkthrough — building it, running it, and debugging the delegation loop:
 ▶ CrewAI Lesson 2: The Boss Agent 
 
+Here is the youtube video link : 
+https://youtu.be/_sdrtKAeh24
+
 ⭐ Star the repo if it helped, and subscribe for a new hands-on AI-agent lesson each week.
 
